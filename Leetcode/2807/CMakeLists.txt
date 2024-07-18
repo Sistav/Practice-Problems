@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(2807__Insert_Greatest_Common_Divisors_in_Linked_List C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(2807__Insert_Greatest_Common_Divisors_in_Linked_List main.c)
