@@ -1,0 +1,40 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.exe
+*.class
+
+# CMake
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles/
+*.ninja
+.ninja_*
+cmake_install.cmake
+
+# Compiled output
+bin/
+out/
+*.o
+*.obj
+
+# Java
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+Temporary/
+
+# Specific directories
+.git/
+
+# Keep
+!.gitignore
