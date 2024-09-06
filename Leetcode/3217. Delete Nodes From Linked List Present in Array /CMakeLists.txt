@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(3217__Delete_Nodes_From_Linked_List_Present_in_Array_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(3217__Delete_Nodes_From_Linked_List_Present_in_Array_ main.cpp)
